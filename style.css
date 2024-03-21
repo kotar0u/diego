@@ -1,4 +1,20 @@
 body{
-    background-color:darkmagenta ;
+    background-color:darkmagenta ;   
+}
+h1 h2{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+    border: solid black;
     
+}
+a{
+    text-decoration: none;
+    display: block;
+}
+a:hover{
+    opacity: 60%;
 }
