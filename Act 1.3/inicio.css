@@ -1,0 +1,19 @@
+
+a{
+    
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+
+}
+a:hover{
+    opacity: 50%;
+}
+
+h3{
+    background-color: red;        
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;  
+}
